@@ -1,0 +1,11 @@
+title: Purple SFD  # You can add your name here
+
+logo: me.png # Use a relative path to logo image 
+
+description: Cyber Security Researcher & Digital Forensics # Fix hyphenation 
+
+show_downloads: true # Fix spelling
+
+theme: jekyll-theme-minimal 
+
+email: purple@sfd.com # Allow visitors to contact you
