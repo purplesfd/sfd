@@ -1,9 +1,12 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
-
-container {
-    max-width: 80%;
-    margin: 0 auto;
-}
+@import "{{ site.theme }}";
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+);
+$width-xl: 1620px;
