@@ -1,4 +1,4 @@
-# Site Reliability Engineer
+# Site Reliability Engineer.
 
 ## Technical Skills
 Cloud, Virtualization, Ansible, Automation, Cyber Security
