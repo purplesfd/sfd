@@ -3,10 +3,7 @@
 
 @import "jekyll-theme-minimal";
 
-.inner {
-  width: 80%;
-}
-
-.box {
-  width: 75%;
+container {
+    max-width: 80%;
+    margin: 0 auto;
 }
