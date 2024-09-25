@@ -4,7 +4,7 @@ logo: me.png # Use a relative path to logo image
 
 description: Cyber Security Researcher & Digital Forensics # Fix hyphenation 
 
-show_downloads: true # Fix spelling
+show_downloads: False # Fix spelling
 
 theme: jekyll-theme-minimal 
 
