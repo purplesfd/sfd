@@ -6,7 +6,6 @@ Cloud, Virtualization, Ansible, Automation, Cyber Security
 ### Certifications
 - CCSP
 - OSCP
-- Azure Devops 
 
 ## SRE Cloud
 - Management of employees, tasks, projects and day-to-day Private Cloud IT operations
