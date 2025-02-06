@@ -1,11 +1,11 @@
-title: Purple SFD  # You can add your name here
+title: Carlos L.  # You can add your name here
 
 logo: me.png # Use a relative path to logo image 
 
-description: Cyber Security Researcher & Digital Forensics # Fix hyphenation 
+description: SRE & Cyber Security # Fix hyphenation 
 
 show_downloads: False # Fix spelling
 
 theme: jekyll-theme-minimal 
 
-email: purple@sfd.com # Allow visitors to contact you
+email: carlos@sfdmarkets.com # Allow visitors to contact you
